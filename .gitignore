@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/raw/
+data/processed/
+data/artifacts/
+
+*.pth
+*.gz
+
+.vscode/
+.idea/
+data/interim/
